@@ -310,6 +310,12 @@
     #contact .text {
       max-width: 25rem;
     }
+
+    #contact form{
+      background: violet;
+      display: flex;
+      justify-content: center;
+    }
   
     /* footer */
     footer.section {
